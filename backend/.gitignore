@@ -1,0 +1,8 @@
+.venv/
+.env
+.dev_jwt_secret
+green.db
+uploads/*
+!uploads/.gitkeep
+__pycache__/
+.pytest_cache/
